@@ -1,0 +1,10 @@
+{
+  "name": "the-village-of-lost-things-production",
+  "private": true,
+  "scripts": {
+    "voices:ep01": "node tools/generate-episode-01-thai-voices.js"
+  },
+  "dependencies": {
+    "node-edge-tts": "1.2.10"
+  }
+}
